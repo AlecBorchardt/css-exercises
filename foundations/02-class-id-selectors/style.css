@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(182, 112, 124);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#num2{
+font-size: 36px;
+color: rgb(7, 10, 211);
+font-weight: 900;
+}
+
+.lilbigger{
+    font-size: 24px;
+}
+
+#greenbold{
+background-color: rgb(55, 250, 55);
+font-weight: 900;
+}
